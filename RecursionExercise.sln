@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionFactorial", "..\RecursionFactorial\RecursionFactorial.csproj", "{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C7355BF-EB67-4B65-95DF-D3BC56C60986}
+	EndGlobalSection
+EndGlobal
