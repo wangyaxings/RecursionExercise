@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionFactorial", "..\RecursionFactorial\RecursionFactorial.csproj", "{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionHanoi", "RecursionHanoi\RecursionHanoi.csproj", "{A0B46A1F-6C76-4441-BFAD-CF10DD7E823F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B46A1F-6C76-4441-BFAD-CF10DD7E823F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B46A1F-6C76-4441-BFAD-CF10DD7E823F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B46A1F-6C76-4441-BFAD-CF10DD7E823F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B46A1F-6C76-4441-BFAD-CF10DD7E823F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
