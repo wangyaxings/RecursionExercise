@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-RecursionFibonacci", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-RecursionFactorial", "RecursionFactorial\01-RecursionFactorial.csproj", "{4F90638D-DB2A-4C77-9DBF-D5273B6B8E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-YangHuiTriangle", "04-YangHuiTriangle\04-YangHuiTriangle.csproj", "{B6B3D2E2-715E-4594-9A2E-2F3BA6EB7D73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-RecursionYangHuiTriangle", "04-YangHuiTriangle\04-RecursionYangHuiTriangle.csproj", "{B6B3D2E2-715E-4594-9A2E-2F3BA6EB7D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-RecursionBinarySearch", "05-RecursionBinarySearch\05-RecursionBinarySearch.csproj", "{77A32382-AA07-461D-8988-94F62E311530}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B6B3D2E2-715E-4594-9A2E-2F3BA6EB7D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B3D2E2-715E-4594-9A2E-2F3BA6EB7D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B3D2E2-715E-4594-9A2E-2F3BA6EB7D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A32382-AA07-461D-8988-94F62E311530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A32382-AA07-461D-8988-94F62E311530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A32382-AA07-461D-8988-94F62E311530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A32382-AA07-461D-8988-94F62E311530}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
