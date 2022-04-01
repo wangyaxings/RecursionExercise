@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-RecursionHanoi", "02-Rec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-RecursionFibonacci", "03-RecursionFibonacci\03-RecursionFibonacci.csproj", "{B25E1C15-6CB6-43AB-8E8B-61AACE3E3B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionListMax", "RecursionListMax\RecursionListMax.csproj", "{47889F47-5A0D-423D-AC17-19191F3844EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-RecursionListMax", "08-RecursionListMax\08-RecursionListMax.csproj", "{47889F47-5A0D-423D-AC17-19191F3844EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
