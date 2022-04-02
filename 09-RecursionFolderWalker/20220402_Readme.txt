@@ -1,0 +1,7 @@
+﻿总结：
+（1）递归的写法还是老思路，终止条件和递归操作
+（2）这里比较容易出错的是ref的使用，体会一下如下的修改过程
+private static void FolderWalker(string path, IList<string> files)
+private static void FolderWalker(string path, out IList<string> files)
+private static void FolderWalker(string path, ref IList<string> files)
+（3）似乎找到了写递归的感觉，大概知道了哪些问题可以用递归，哪些用递归会更简单，如何写递归，但是还说不明白
