@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-RecursionListMax", "08-R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-RecursionFolderWalker", "09-RecursionFolderWalker\09-RecursionFolderWalker.csproj", "{E45324FD-F756-455F-BBB4-54882ACAAA47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-RecursionListReverse", "10-RecursionListReverse\10-RecursionListReverse.csproj", "{0927464B-0C84-4843-9FF3-A94142E5405A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{E45324FD-F756-455F-BBB4-54882ACAAA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E45324FD-F756-455F-BBB4-54882ACAAA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E45324FD-F756-455F-BBB4-54882ACAAA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0927464B-0C84-4843-9FF3-A94142E5405A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0927464B-0C84-4843-9FF3-A94142E5405A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0927464B-0C84-4843-9FF3-A94142E5405A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0927464B-0C84-4843-9FF3-A94142E5405A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
