@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 /*
  * 欧几里得算法又称辗转相除法，是指用于计算两个非负整数a，b的最大公约数
  */
-namespace _11_EuclideanAlgorithm
+namespace _11_RecursionEuclideanAlgorithm
 {
     class Program
     {

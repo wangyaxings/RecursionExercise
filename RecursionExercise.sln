@@ -23,7 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-RecursionFolderWalker", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-RecursionListReverse", "10-RecursionListReverse\10-RecursionListReverse.csproj", "{0927464B-0C84-4843-9FF3-A94142E5405A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-EuclideanAlgorithm", "11-EuclideanAlgorithm\11-EuclideanAlgorithm.csproj", "{22B9F429-BEB9-4989-BED2-CC0BBAA2C51E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-RecursionEuclideanAlgorithm", "11-EuclideanAlgorithm\11-RecursionEuclideanAlgorithm.csproj", "{22B9F429-BEB9-4989-BED2-CC0BBAA2C51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-RecursionAllPermutation", "12-RecursionAllPermutation\12-RecursionAllPermutation.csproj", "{E1FB1860-9177-4B93-B0C2-8440784AE40D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{22B9F429-BEB9-4989-BED2-CC0BBAA2C51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22B9F429-BEB9-4989-BED2-CC0BBAA2C51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22B9F429-BEB9-4989-BED2-CC0BBAA2C51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FB1860-9177-4B93-B0C2-8440784AE40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FB1860-9177-4B93-B0C2-8440784AE40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FB1860-9177-4B93-B0C2-8440784AE40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FB1860-9177-4B93-B0C2-8440784AE40D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
