@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-RecursionAllPermutation"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-RecursionSameInString", "13-RecursionSameInString\13-RecursionSameInString.csproj", "{7BEE6AA7-18F6-4B99-AC91-673457B15405}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-RecursionMinimizeZeros", "14-RecursionMinimizeZeros\14-RecursionMinimizeZeros.csproj", "{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7BEE6AA7-18F6-4B99-AC91-673457B15405}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BEE6AA7-18F6-4B99-AC91-673457B15405}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BEE6AA7-18F6-4B99-AC91-673457B15405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
