@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-RecursionSameInString", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-RecursionMinimizeZeros", "14-RecursionMinimizeZeros\14-RecursionMinimizeZeros.csproj", "{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-RecursionPalindrome", "15-RecursionPalindrome\15-RecursionPalindrome.csproj", "{F270E71E-5D2C-4F69-AA9F-ACAFA488D8F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A99A7D8-F710-40BA-99E3-D1BB34ABCE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F270E71E-5D2C-4F69-AA9F-ACAFA488D8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F270E71E-5D2C-4F69-AA9F-ACAFA488D8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F270E71E-5D2C-4F69-AA9F-ACAFA488D8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F270E71E-5D2C-4F69-AA9F-ACAFA488D8F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
