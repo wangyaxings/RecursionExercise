@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-RecursionMultiplication"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-RecursionPowerofTwo", "18-RecursionPowerofTwo\18-RecursionPowerofTwo.csproj", "{9541417B-7C62-4952-B2FA-E6FC584C930D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-RecursionRange", "19-RecursionRange\19-RecursionRange.csproj", "{31A70A10-8CFF-4FDE-8C25-51E34A407858}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{9541417B-7C62-4952-B2FA-E6FC584C930D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9541417B-7C62-4952-B2FA-E6FC584C930D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9541417B-7C62-4952-B2FA-E6FC584C930D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A70A10-8CFF-4FDE-8C25-51E34A407858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A70A10-8CFF-4FDE-8C25-51E34A407858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A70A10-8CFF-4FDE-8C25-51E34A407858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A70A10-8CFF-4FDE-8C25-51E34A407858}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
