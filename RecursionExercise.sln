@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-RecursionRemainder", "20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21-RecursionStringList", "21-RecursionStringList\21-RecursionStringList.csproj", "{5D5301B6-D6B2-44FD-9210-9014F816E6E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-RecursionFizzBuzz", "22-RecursionFizzBuzz\22-RecursionFizzBuzz.csproj", "{359E9956-5EB5-49C7-B264-49E61B8ECAEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{5D5301B6-D6B2-44FD-9210-9014F816E6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D5301B6-D6B2-44FD-9210-9014F816E6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D5301B6-D6B2-44FD-9210-9014F816E6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359E9956-5EB5-49C7-B264-49E61B8ECAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359E9956-5EB5-49C7-B264-49E61B8ECAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359E9956-5EB5-49C7-B264-49E61B8ECAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359E9956-5EB5-49C7-B264-49E61B8ECAEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
