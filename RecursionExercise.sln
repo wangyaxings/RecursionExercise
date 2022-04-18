@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-RecursionCommpareString"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-RecursionCountOccurrence", "24-RecursionCountOccurrence\24-RecursionCountOccurrence.csproj", "{5D613653-CAF2-43D8-A100-43DA4FBD6E5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-RecursionBinaryTreeCreate", "25-RecursionBinaryTreeCreate\25-RecursionBinaryTreeCreate.csproj", "{03770B97-5C3C-40F9-AD25-C133465D9A8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{5D613653-CAF2-43D8-A100-43DA4FBD6E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D613653-CAF2-43D8-A100-43DA4FBD6E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D613653-CAF2-43D8-A100-43DA4FBD6E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03770B97-5C3C-40F9-AD25-C133465D9A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03770B97-5C3C-40F9-AD25-C133465D9A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03770B97-5C3C-40F9-AD25-C133465D9A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03770B97-5C3C-40F9-AD25-C133465D9A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
