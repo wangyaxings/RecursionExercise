@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-RecursionInorderTraversa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-RecursionPreOrderTraversal", "27-RecursionPreOrderTraversal\27-RecursionPreOrderTraversal.csproj", "{8229A38E-31EE-494F-979E-9878CA2CABDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-RecursionPostorderTraversal", "28-RecursionPostorderTraversal\28-RecursionPostorderTraversal.csproj", "{AB196456-E5D8-4AF9-A0C6-8D752088DB23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{8229A38E-31EE-494F-979E-9878CA2CABDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8229A38E-31EE-494F-979E-9878CA2CABDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8229A38E-31EE-494F-979E-9878CA2CABDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB196456-E5D8-4AF9-A0C6-8D752088DB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB196456-E5D8-4AF9-A0C6-8D752088DB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB196456-E5D8-4AF9-A0C6-8D752088DB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB196456-E5D8-4AF9-A0C6-8D752088DB23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

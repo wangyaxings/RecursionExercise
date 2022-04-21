@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 /*
- * 满二叉树的前序遍历
+ * 二叉树后序遍历
  */
-namespace _27_RecursionPreOrderTraversal
+namespace _28_RecursionPostorderTraversal
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             TreeNode node = CreateBinaryTree(3);
-            var ret = PreorderTraversal(node);
+            var ret = PostorderTraversal(node);
             foreach (var item in ret)
             {
                 Console.WriteLine(item);
@@ -21,7 +21,7 @@ namespace _27_RecursionPreOrderTraversal
             Console.ReadKey();
         }
 
-        private static List<int> PreorderTraversal(TreeNode node)
+        private static List<int> PostorderTraversal(TreeNode node)
         {
             if (node.left == null && node.right == null)
             {
@@ -29,13 +29,15 @@ namespace _27_RecursionPreOrderTraversal
             }
             else
             {
-                List<int> resultList = new List<int>();
-                resultList.Add(node.dataValue);//其相对于下临左右递归的位置关系即说明了前中后序遍历
-                resultList.AddRange(PreorderTraversal(node.left));                
-                resultList.AddRange(PreorderTraversal(node.right));
-                return resultList;
+                List<int> ret_list = new List<int>();                
+                ret_list.AddRange(PostorderTraversal(node.left)); 
+                ret_list.AddRange(PostorderTraversal(node.right));
+                ret_list.Add(node.dataValue);
+
+                return ret_list;
             }
         }
+
 
         //满二叉树
         private static int seed = 0;
