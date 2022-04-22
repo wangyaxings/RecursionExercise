@@ -1,0 +1,3 @@
+﻿总结：
+（1）遍历树状图，逐层递归是一种常见应用场景；
+（2）关于WPF几点知识：a.关于TreeView控件中数据 b.关于LogicalTreeHelper的GetChildren的使用
