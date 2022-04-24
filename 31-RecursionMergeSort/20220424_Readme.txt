@@ -1,0 +1,4 @@
+﻿总结：
+（1）引用 https://github.com/Majgra/Sorteringsalgoritmer/blob/main/Sorteringsalgoritmer/MergeSort.cs
+（2）对归并不是特别熟悉;
+（3）分析后自己重新实现再提交一次吧;
