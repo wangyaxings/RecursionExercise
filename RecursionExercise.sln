@@ -65,6 +65,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30-RecursionWPFVisualTreeTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-RecursionMergeSort", "31-RecursionMergeSort\31-RecursionMergeSort.csproj", "{3541B1DB-C443-4A29-9691-812DF5DC474B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-RecursionSetTree", "32-RecursionSetTree\32-RecursionSetTree.csproj", "{38E0F7AA-829B-4021-B10D-6F8803B65583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{3541B1DB-C443-4A29-9691-812DF5DC474B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3541B1DB-C443-4A29-9691-812DF5DC474B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3541B1DB-C443-4A29-9691-812DF5DC474B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E0F7AA-829B-4021-B10D-6F8803B65583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E0F7AA-829B-4021-B10D-6F8803B65583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E0F7AA-829B-4021-B10D-6F8803B65583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E0F7AA-829B-4021-B10D-6F8803B65583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
