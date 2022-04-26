@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-RecursionMergeSort", "31
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32-RecursionSetTree", "32-RecursionSetTree\32-RecursionSetTree.csproj", "{38E0F7AA-829B-4021-B10D-6F8803B65583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33-RecursionExportTreeToXML", "33-RecursionExportTreeToXML\33-RecursionExportTreeToXML.csproj", "{4773218C-FD73-4336-AE09-58C76775F73F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{38E0F7AA-829B-4021-B10D-6F8803B65583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E0F7AA-829B-4021-B10D-6F8803B65583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E0F7AA-829B-4021-B10D-6F8803B65583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4773218C-FD73-4336-AE09-58C76775F73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4773218C-FD73-4336-AE09-58C76775F73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4773218C-FD73-4336-AE09-58C76775F73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4773218C-FD73-4336-AE09-58C76775F73F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
