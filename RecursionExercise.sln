@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35-RecursionClimbStairs", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36-RecursionCellDivision", "36-RecursionCellDivision\36-RecursionCellDivision.csproj", "{DDCB55E2-0222-4A06-AEC4-E05638BE00F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37-RecursionPrimeFactors", "37-RecursionPrimeFactors\37-RecursionPrimeFactors.csproj", "{6A2FA394-FC37-4B44-999F-AE16A9B34600}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{DDCB55E2-0222-4A06-AEC4-E05638BE00F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDCB55E2-0222-4A06-AEC4-E05638BE00F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDCB55E2-0222-4A06-AEC4-E05638BE00F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2FA394-FC37-4B44-999F-AE16A9B34600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2FA394-FC37-4B44-999F-AE16A9B34600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2FA394-FC37-4B44-999F-AE16A9B34600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2FA394-FC37-4B44-999F-AE16A9B34600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
