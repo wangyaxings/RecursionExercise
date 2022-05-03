@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38-RecursionHermite", "38-R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39-RecursionAddDigits", "39-RecursionAddDigits\39-RecursionAddDigits.csproj", "{D6D8359B-B03F-499F-879D-CC0D2706B760}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40-RecursionLookAndSaySequence", "40-RecursionLookAndSaySequence\40-RecursionLookAndSaySequence.csproj", "{679449D6-88C6-45EC-A89F-F86417A28CE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{D6D8359B-B03F-499F-879D-CC0D2706B760}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6D8359B-B03F-499F-879D-CC0D2706B760}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6D8359B-B03F-499F-879D-CC0D2706B760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679449D6-88C6-45EC-A89F-F86417A28CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679449D6-88C6-45EC-A89F-F86417A28CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679449D6-88C6-45EC-A89F-F86417A28CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679449D6-88C6-45EC-A89F-F86417A28CE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
