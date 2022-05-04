@@ -1,0 +1,4 @@
+﻿问题：https://leetcode-cn.com/problems/throne-inheritance/
+总结：
+（1）将实际问题抽象为数学问题，该问题实际上是一个多叉树的前序遍历的问题，第27个项目写过；
+（2）dfs问题需要了解一下；
