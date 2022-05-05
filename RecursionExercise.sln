@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40-RecursionLookAndSaySeque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41-RecursionThroneInheritance", "41-RecursionThroneInheritance\41-RecursionThroneInheritance.csproj", "{B605B51D-8E31-43AF-BE1A-27C3681C14F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42-RecursionGeometricSeries", "42-RecursionGeometricSeries\42-RecursionGeometricSeries.csproj", "{1D04F414-117F-4084-BFC9-3AF7A0084ECA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{B605B51D-8E31-43AF-BE1A-27C3681C14F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B605B51D-8E31-43AF-BE1A-27C3681C14F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B605B51D-8E31-43AF-BE1A-27C3681C14F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D04F414-117F-4084-BFC9-3AF7A0084ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D04F414-117F-4084-BFC9-3AF7A0084ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D04F414-117F-4084-BFC9-3AF7A0084ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D04F414-117F-4084-BFC9-3AF7A0084ECA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
