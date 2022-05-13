@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48-RecursionJosephusProblem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49-RecursionCatalan", "49-RecursionCatalan\49-RecursionCatalan.csproj", "{C33869CF-99B1-4D43-8C33-BB04EFC98582}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50-RecursionSencondStirling", "50-RecursionSencondStirling\50-RecursionSencondStirling.csproj", "{8682E3F3-A52B-4EF1-ACB2-730DC78FCFBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{C33869CF-99B1-4D43-8C33-BB04EFC98582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C33869CF-99B1-4D43-8C33-BB04EFC98582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C33869CF-99B1-4D43-8C33-BB04EFC98582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8682E3F3-A52B-4EF1-ACB2-730DC78FCFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8682E3F3-A52B-4EF1-ACB2-730DC78FCFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8682E3F3-A52B-4EF1-ACB2-730DC78FCFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8682E3F3-A52B-4EF1-ACB2-730DC78FCFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
