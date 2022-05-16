@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51-RecursionChessBoard", "5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52-RecursionMonkeyPeach", "52-RecursionMonkeyPeach\52-RecursionMonkeyPeach.csproj", "{D033E810-79A9-4365-9BB4-DB4638D76812}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53-RecursionN-Queen", "53-RecursionN-Queen\53-RecursionN-Queen.csproj", "{C04733D6-483B-4494-8028-1EC152B59128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{D033E810-79A9-4365-9BB4-DB4638D76812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D033E810-79A9-4365-9BB4-DB4638D76812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D033E810-79A9-4365-9BB4-DB4638D76812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04733D6-483B-4494-8028-1EC152B59128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04733D6-483B-4494-8028-1EC152B59128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04733D6-483B-4494-8028-1EC152B59128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04733D6-483B-4494-8028-1EC152B59128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
